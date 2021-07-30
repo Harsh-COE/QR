@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="todo" />
+    <string name="enter_the_text_here" />
+    <string name="qr_code" />
+    <string name="scan" />
+    <string name="attendence_scanner" />
+</resources>
